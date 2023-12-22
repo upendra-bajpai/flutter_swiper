@@ -1,0 +1,19 @@
+name: flutter_swiper_null_safety_flutter3
+description: Carousel component, added flutter3 support
+version: 3.0.0
+homepage: https://github.com/mdddj/flutter_swiper_null_safety
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_lints: any
+
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
